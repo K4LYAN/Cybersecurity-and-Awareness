@@ -8,7 +8,7 @@
 - Fragmented **learning** resources, requiring users to switch between multiple platforms.
 - Poor integration between theoretical **knowledge and practical** application skills.
 - This platform aims to solve these challenges by creating a single, unified, and interactive **training environment**.
-- 
+  
 ## ✨ Key Features
 ### This platform is a multi-modular system built to serve three distinct user roles: Students, Teachers, and Administrators.
 - **Course Management:** A complete module for Teachers to create, update, and schedule cybersecurity courses, including multimedia-based content like videos and quizzes.
