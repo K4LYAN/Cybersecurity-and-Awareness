@@ -15,7 +15,7 @@
 - **Virtual Laboratory Module:** Provides sandboxed environments where learners can safely perform real-world cybersecurity tasks, experiments, and simulations (e.g., attack and defense scenarios) without risk to live systems.
 - **CTF (Capture The Flag) Challenges:** Includes gamified learning modules where students can test their skills by finding "flags" in various challenges.
 - **AI-Powered Assistance:** Integrates AI to offer personalized learning paths, real-time doubt resolution, and intelligent recommendations.
-###Career Hub:
+### Career Hub:
 - **Job Assistance Portal:** Lists relevant cybersecurity job openings and internships, along with resume-building tools.
 - **Research Paper Repository:** A centralized library for scholarly articles, white papers, and industry reports.
 - **Feedback System:** A comprehensive module for users to submit feedback for continuous platform improvement
